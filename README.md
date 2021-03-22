@@ -35,7 +35,7 @@ Data Analyst Recruitment Challenge
 - A lower number of unique visits for automobile stores is expected if considered that an automobile is not bought frequently and has a high cost.
 
 
-### 2. Popular Brands in Saturdays
+### 2. Popular Brands on Saturdays
 
 ![image3](download_3.png)
 
