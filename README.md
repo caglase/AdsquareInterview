@@ -30,7 +30,7 @@ Data Analyst Recruitment Challenge
 
 ![Image2](download_2.png)
 
-- The char above shows number of unique visits without time dimension,
+- The chart above shows number of unique visits without time dimension,
 - Grocery stores Kaufland, Rewe and Aldi are the most visited places when stores are compared in terms of number of unique visits without time dimension. Fast food restaurants McDonalds and Burger King follow grocery stores. Automobile stores Renault, Lexus and Mercedes are the least visited ones. 
 - Low number of unique visits are expected if considered that an automobile is not bought frequently and has a high cost.
 
