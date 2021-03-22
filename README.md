@@ -10,7 +10,7 @@ Data Analyst Recruitment Challenge
 
 ### Analysis
 
--Charts have been created with Qlik Sense.
+- Charts have been created with Qlik Sense.
 
 ### 1. Weekly Trend
 ![Image1](download.png)
@@ -32,7 +32,7 @@ Data Analyst Recruitment Challenge
 
 - The chart above shows number of unique visits without time dimension,
 - Grocery stores Kaufland, Rewe and Aldi are the most visited places when stores are compared in terms of number of unique visits without time dimension. Fast food restaurants McDonalds and Burger King follow grocery stores. Automobile stores Renault, Lexus and Mercedes are the least visited ones. 
-- Low number of unique visits are expected if considered that an automobile is not bought frequently and has a high cost.
+- A lower number of unique visits for automobile stores is expected if considered that an automobile is not bought frequently and has a high cost.
 
 
 ### 2. Popular Brands in Saturdays
@@ -43,13 +43,13 @@ Data Analyst Recruitment Challenge
 - The first chart has been added to show that the Saturdays are choosen to filter the data.
 
 - Grocery stores Kaufland, Rewe and Aldi are the most visited places whereas fast food restaurants Burger King and McDonalds are the least visited ones together with Renault store.
-- Higher numbers of visits just before the Sunday are expected for grocery stores given the Sunday are holidays on which all the stores are closed. 
+- Higher numbers of visits just before the Sundays can be expected for grocery stores given that Sundays are holidays on which all the stores are closed. 
 
 
 ### 3. Popular Brands on Sundays
 ![image4](download_4.png)
 
-- The charts above shows the most visited brands on Sundays.
+- The chart above shows the most visited brands on Sundays.
 - McDonalds is the most visited brand on Sunday in contrast to what is observed on weekdays, which can be expected as the most of the grocery stores are close on Sundays. 
-- Although grocery stores are expected to be closed on Sundays some stores in the city centers remains open. This could be the reason for seeing visits to grocery stores on Sunday on the chart.
+- Although grocery stores are supposed to be closed on Sundays, some stores in the city centers remains open. This could be the reason for seeing visits to grocery stores on Sunday on the chart.
 
